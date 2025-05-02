@@ -13,7 +13,7 @@ sudo apt-get install -y nodejs
 Verifikasi instalasi:
 node -v && npm -v
 4. Install Git
- git clone https://github.com/username/repository.git
+ git clone https://github.com/median99/simitra_auto.git
 cd repository
 6. Install Dependencies
    npm install
